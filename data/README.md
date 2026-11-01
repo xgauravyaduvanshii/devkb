@@ -10,3 +10,4 @@ All entries by ecosystem. Generated content lives in site/.
 - **EADDRINUSE: address already in use :::3000** — [`node-eaddrinuse`](errors/node-eaddrinuse.md) · ecosystem: nodejs · tags: node,ports,dev
 - **FATAL ERROR: Reached heap limit Allocation failed - JavaScript heap out of memory** — [`node-heap-oom`](errors/node-heap-oom.md) · ecosystem: nodejs · tags: node,memory
 - **node-gyp rebuild fails: 'Could not find any Python installation' / gyp ERR!** — [`node-gyp-failed`](errors/node-gyp-failed.md) · ecosystem: nodejs · tags: npm,native,build
+- **npm ERR! Invalid package name "my-app": name can only contain URL-friendly characters** — [`npm-einargs`](errors/npm-einargs.md) · ecosystem: nodejs · tags: npm,naming
