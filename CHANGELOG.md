@@ -6,3 +6,4 @@ All notable changes to devkb.
 - release prep checkpoint 2: index regenerated, lint green, corpus stats recorded
 - release prep checkpoint 3: index regenerated, lint green, corpus stats recorded
 - release prep checkpoint 4: index regenerated, lint green, corpus stats recorded
+- release prep checkpoint 5: index regenerated, lint green, corpus stats recorded
