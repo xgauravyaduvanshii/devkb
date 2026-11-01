@@ -120,3 +120,4 @@ All entries by ecosystem. Generated content lives in site/.
 - **NOAUTH Authentication required / AUTH failed: invalid password** — [`redis-cli-auth`](errors/redis-cli-auth.md) · ecosystem: redis · tags: redis,auth
 - **An error occurred (AccessDenied) when calling the PutObject operation** — [`s3-access-denied`](errors/s3-access-denied.md) · ecosystem: cloud · tags: aws,s3
 - **Error acquiring the state lock / LockInfo with operation locked** — [`terra-state-lock`](errors/terra-state-lock.md) · ecosystem: devops,terraform · tags: terraform,ci
+- **Error [ERR_UNKNOWN_FILE_EXTENSION]: Unknown file extension ".mjs" for ...** — [`node-unknown-file-extension`](errors/node-unknown-file-extension.md) · ecosystem: nodejs · tags: node, esm, mjs, loader
