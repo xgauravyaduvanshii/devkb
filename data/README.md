@@ -22,3 +22,4 @@ All entries by ecosystem. Generated content lives in site/.
 - **fatal: unable to auto-detect email address / wrong committer on push** — [`git-author-identity`](errors/git-author-identity.md) · ecosystem: git · tags: git,config
 - **error: unable to create file ...: Filename too long (Windows)** — [`git-filename-too-long`](errors/git-filename-too-long.md) · ecosystem: git · tags: git,windows
 - **remote: Permission to X denied to Y. fatal: unable to access (403)** — [`git-push-403`](errors/git-push-403.md) · ecosystem: git · tags: git,auth
+- **error: Your local changes to the following files would be overwritten by checkout** — [`git-checkout-conflict`](errors/git-checkout-conflict.md) · ecosystem: git · tags: git,workflow
