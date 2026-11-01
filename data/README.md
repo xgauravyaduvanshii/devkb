@@ -15,3 +15,4 @@ All entries by ecosystem. Generated content lives in site/.
 - **ESLint: Failed to load plugin 'react' declared in '.eslintrc': Cannot find module** — [`eslint-plugin-missing`](errors/eslint-plugin-missing.md) · ecosystem: nodejs · tags: eslint,tooling
 - **Vite: Port 5173 is in use, trying another one... / ws proxy error ECONNREFUSED** — [`vite-port-conflict`](errors/vite-port-conflict.md) · ecosystem: nodejs · tags: vite,dev
 - **Cannot find module X although it is in dependencies (pnpm strict node_modules)** — [`pnpm-hoist`](errors/pnpm-hoist.md) · ecosystem: nodejs · tags: pnpm,node
+- **! [rejected] main -> main (non-fast-forward) git push failed** — [`git-non-fast-forward`](errors/git-non-fast-forward.md) · ecosystem: git · tags: git,push
