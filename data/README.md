@@ -67,3 +67,4 @@ All entries by ecosystem. Generated content lives in site/.
 - **panic: assignment to entry in nil map** — [`go-nil-map`](errors/go-nil-map.md) · ecosystem: go · tags: go,panic
 - **syntax error: unexpected EOF, expected }** — [`go-unexpected-eof`](errors/go-unexpected-eof.md) · ecosystem: go · tags: go,parser
 - **go: cannot find main module, but found .git/config in /app** — [`go-cannot-find-module`](errors/go-cannot-find-module.md) · ecosystem: go · tags: go,modules
+- **go.mod requires go >= 1.22 (running go 1.21; GOTOOLCHAIN=local)** — [`go-toolchain-mismatch`](errors/go-toolchain-mismatch.md) · ecosystem: go · tags: go,toolchain
