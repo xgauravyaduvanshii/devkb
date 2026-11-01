@@ -106,3 +106,4 @@ All entries by ecosystem. Generated content lives in site/.
 - **npm ERR! engine: Not compatible with your version (node 16 vs required >=18)** — [`ci-node-version`](errors/ci-node-version.md) · ecosystem: devops,ci · tags: ci,node
 - **npm ERR! Could not resolve dependency tree / conflicting peer dependency** — [`npm-peer-deps`](errors/npm-peer-deps.md) · ecosystem: nodejs · tags: npm,deps
 - **error Your lockfile needs to be updated, but it was not changed / CI frozen on yarn install --frozen-lockfile** — [`yarn-lock-mismatch`](errors/yarn-lock-mismatch.md) · ecosystem: nodejs · tags: yarn,lockfile
+- **TypeError: fetch failed / ECONNRESET with undici but fine in browser** — [`node-abort-ctrl`](errors/node-abort-ctrl.md) · ecosystem: nodejs · tags: node,http
