@@ -28,3 +28,4 @@ All entries by ecosystem. Generated content lives in site/.
 - **Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running?** — [`docker-cannot-connect-daemon`](errors/docker-cannot-connect-daemon.md) · ecosystem: docker · tags: docker,daemon
 - **permission denied while trying to connect to the Docker daemon socket** — [`docker-permission-socket`](errors/docker-permission-socket.md) · ecosystem: docker · tags: docker,linux
 - **no space left on device (while building or pulling)** — [`docker-no-space-left`](errors/docker-no-space-left.md) · ecosystem: docker · tags: docker,disk
+- **Error response from daemon: manifest for image:tag not found** — [`docker-manifest-unknown`](errors/docker-manifest-unknown.md) · ecosystem: docker · tags: docker,registry
