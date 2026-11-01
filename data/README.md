@@ -96,3 +96,4 @@ All entries by ecosystem. Generated content lives in site/.
 - **NET::ERR_CERT_COMMON_NAME_INVALID / SSL: hostname mismatch** — [`web-ssl-hostname`](errors/web-ssl-hostname.md) · ecosystem: web · tags: https,tls
 - **ERR_TOO_MANY_REDIRECTS (HTTP 301/302 cycle)** — [`web-redirect-loop`](errors/web-redirect-loop.md) · ecosystem: web · tags: http,https
 - **Refused to execute script because it violates the following Content Security Policy directive** — [`web-csp-blocked`](errors/web-csp-blocked.md) · ecosystem: web · tags: http,security
+- **Fatal error: Uncaught Error: Call to undefined function mysqli_real_escape_string()** — [`wp-autoload-overflow`](errors/wp-autoload-overflow.md) · ecosystem: web,wordpress · tags: php,mysql
