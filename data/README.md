@@ -63,3 +63,4 @@ All entries by ecosystem. Generated content lives in site/.
 - **error: command not found: cargo / rustc not found after rustup install** — [`rust-cargo-missing`](errors/rust-cargo-missing.md) · ecosystem: rust · tags: rust,toolchain
 - **error: linker `cc` not found / executable file not found: cc** — [`rust-cc-missing`](errors/rust-cc-missing.md) · ecosystem: rust · tags: rust,build
 - **import cycle not allowed (found packages or import cycle in package X)** — [`go-import-cycle`](errors/go-import-cycle.md) · ecosystem: go · tags: go,build
+- **error: declared and not used: err** — [`go-declared-not-used`](errors/go-declared-not-used.md) · ecosystem: go · tags: go,compiler
