@@ -83,3 +83,4 @@ All entries by ecosystem. Generated content lives in site/.
 - **MISCONF Redis is configured to save RDB snapshots, but it is currently not able to persist on disk** — [`redis-misconf`](errors/redis-misconf.md) · ecosystem: redis · tags: redis,disk
 - **OOM command not allowed when used memory > 'maxmemory'** — [`redis-oom`](errors/redis-oom.md) · ecosystem: redis · tags: redis,memory
 - **Connection refused to 127.0.0.1:6379 (within app) or NOAUTH / WRONGPASS** — [`redis-connrefused`](errors/redis-connrefused.md) · ecosystem: redis · tags: redis,auth
+- **WRONGTYPE Operation against a key holding the wrong kind of value** — [`redis-wrongtype`](errors/redis-wrongtype.md) · ecosystem: redis · tags: redis,types
