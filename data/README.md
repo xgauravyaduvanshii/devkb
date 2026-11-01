@@ -40,3 +40,4 @@ All entries by ecosystem. Generated content lives in site/.
 - **Error from server (Forbidden): pods is forbidden: User cannot list resource in namespace** — [`k8s-rbac-forbidden`](errors/k8s-rbac-forbidden.md) · ecosystem: kubernetes · tags: k8s,rbac
 - **The connection to the server localhost:8080 was refused** — [`k8s-kubeconfig-refused`](errors/k8s-kubeconfig-refused.md) · ecosystem: kubernetes · tags: k8s,kubeconfig
 - **Pod was evicted: The node had condition: [DiskPressure]** — [`k8s-evicted`](errors/k8s-evicted.md) · ecosystem: kubernetes · tags: k8s,nodes
+- **Readiness probe failed: HTTP request to /healthz on port 8080 failed: connection refused** — [`k8s-readiness-fail`](errors/k8s-readiness-fail.md) · ecosystem: kubernetes · tags: k8s,probes
