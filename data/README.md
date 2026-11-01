@@ -92,3 +92,4 @@ All entries by ecosystem. Generated content lives in site/.
 - **/bin/bash^M: bad interpreter: No such file or directory** — [`linux-crlf-interpreter`](errors/linux-crlf-interpreter.md) · ecosystem: linux · tags: linux,encoding
 - **Access to fetch has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header** — [`web-cors`](errors/web-cors.md) · ecosystem: web,cors · tags: http,browser
 - **net::ERR_CONNECTION_REFUSED** — [`web-err-connection-refused`](errors/web-err-connection-refused.md) · ecosystem: web · tags: http,network
+- **Cloudflare Error 521: Web server is down** — [`web-521`](errors/web-521.md) · ecosystem: web · tags: http,cloudflare
