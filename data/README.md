@@ -32,3 +32,4 @@ All entries by ecosystem. Generated content lives in site/.
 - **exec format error / image with platform linux/amd64 does not match this kernel** — [`docker-exec-format`](errors/docker-exec-format.md) · ecosystem: docker · tags: docker,arch
 - **no such service: web (in compose project)** — [`docker-compose-service-missing`](errors/docker-compose-service-missing.md) · ecosystem: docker · tags: docker,compose
 - **Name or service not known (DNS failure inside container)** — [`docker-dns-fail`](errors/docker-dns-fail.md) · ecosystem: docker · tags: docker,network
+- **E: Problem executing scripts APT::Post-Invoke 'apt clean' / failed to exec batch processor /bin/sh** — [`docker-apt-post-invoke`](errors/docker-apt-post-invoke.md) · ecosystem: docker · tags: docker,debian
