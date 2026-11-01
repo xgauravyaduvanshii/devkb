@@ -16,3 +16,4 @@ All entries by ecosystem. Generated content lives in site/.
 - **Vite: Port 5173 is in use, trying another one... / ws proxy error ECONNREFUSED** — [`vite-port-conflict`](errors/vite-port-conflict.md) · ecosystem: nodejs · tags: vite,dev
 - **Cannot find module X although it is in dependencies (pnpm strict node_modules)** — [`pnpm-hoist`](errors/pnpm-hoist.md) · ecosystem: nodejs · tags: pnpm,node
 - **! [rejected] main -> main (non-fast-forward) git push failed** — [`git-non-fast-forward`](errors/git-non-fast-forward.md) · ecosystem: git · tags: git,push
+- **hint: You have divergent branches and need to specify how to reconcile them** — [`git-divergent`](errors/git-divergent.md) · ecosystem: git · tags: git,pull
