@@ -59,3 +59,4 @@ All entries by ecosystem. Generated content lives in site/.
 - **error TS2835: Relative import paths need explicit file extensions in ECMAScript imports when '--moduleResolution' is 'node16'** — [`ts-node16-extension`](errors/ts-node16-extension.md) · ecosystem: typescript · tags: typescript,esm
 - **error[E0382]: use of moved value: `data`** — [`rust-e0382`](errors/rust-e0382.md) · ecosystem: rust · tags: rust,borrowck
 - **error[E0597]: `x` does not live long enough** — [`rust-e0597`](errors/rust-e0597.md) · ecosystem: rust · tags: rust,lifetimes
+- **error[E0277]: the trait bound `T: Clone` is not satisfied** — [`rust-e0277`](errors/rust-e0277.md) · ecosystem: rust · tags: rust,traits
