@@ -14,3 +14,4 @@ All entries by ecosystem. Generated content lives in site/.
 - **npm ERR! code ETIMEDOUT / ECONNREFUSED registry.npmjs.org** — [`npm-etimedout`](errors/npm-etimedout.md) · ecosystem: nodejs · tags: npm,network
 - **ESLint: Failed to load plugin 'react' declared in '.eslintrc': Cannot find module** — [`eslint-plugin-missing`](errors/eslint-plugin-missing.md) · ecosystem: nodejs · tags: eslint,tooling
 - **Vite: Port 5173 is in use, trying another one... / ws proxy error ECONNREFUSED** — [`vite-port-conflict`](errors/vite-port-conflict.md) · ecosystem: nodejs · tags: vite,dev
+- **Cannot find module X although it is in dependencies (pnpm strict node_modules)** — [`pnpm-hoist`](errors/pnpm-hoist.md) · ecosystem: nodejs · tags: pnpm,node
