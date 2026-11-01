@@ -79,3 +79,4 @@ All entries by ecosystem. Generated content lives in site/.
 - **Command find failed: not authorized on db to execute command** — [`mongo-not-authorized`](errors/mongo-not-authorized.md) · ecosystem: mongodb · tags: mongodb,rbac
 - **E11000 duplicate key error collection: users index: email_1** — [`mongo-duplicate-key`](errors/mongo-duplicate-key.md) · ecosystem: mongodb · tags: mongodb,indexes
 - **Cursor not found, cursor id: ...** — [`mongo-cursor-timeout`](errors/mongo-cursor-timeout.md) · ecosystem: mongodb · tags: mongodb,cursors
+- **MongoServerSelectionError: connection timed out / Server selection timeout 30000ms** — [`mongo-server-selection`](errors/mongo-server-selection.md) · ecosystem: mongodb · tags: mongodb,network
