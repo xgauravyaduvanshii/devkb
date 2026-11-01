@@ -27,3 +27,4 @@ All entries by ecosystem. Generated content lives in site/.
 - **error: ...: object is a file - replacing / fatal: bad object / packfile truncated** — [`git-corrupt-obj`](errors/git-corrupt-obj.md) · ecosystem: git · tags: git,integrity
 - **Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running?** — [`docker-cannot-connect-daemon`](errors/docker-cannot-connect-daemon.md) · ecosystem: docker · tags: docker,daemon
 - **permission denied while trying to connect to the Docker daemon socket** — [`docker-permission-socket`](errors/docker-permission-socket.md) · ecosystem: docker · tags: docker,linux
+- **no space left on device (while building or pulling)** — [`docker-no-space-left`](errors/docker-no-space-left.md) · ecosystem: docker · tags: docker,disk
