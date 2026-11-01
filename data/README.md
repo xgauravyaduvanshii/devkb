@@ -119,3 +119,4 @@ All entries by ecosystem. Generated content lives in site/.
 - **go build: vendored module X is not marked as explicit / inconsistent vendoring** — [`go-vendor-inconsistent`](errors/go-vendor-inconsistent.md) · ecosystem: go · tags: go,vendor
 - **NOAUTH Authentication required / AUTH failed: invalid password** — [`redis-cli-auth`](errors/redis-cli-auth.md) · ecosystem: redis · tags: redis,auth
 - **An error occurred (AccessDenied) when calling the PutObject operation** — [`s3-access-denied`](errors/s3-access-denied.md) · ecosystem: cloud · tags: aws,s3
+- **Error acquiring the state lock / LockInfo with operation locked** — [`terra-state-lock`](errors/terra-state-lock.md) · ecosystem: devops,terraform · tags: terraform,ci
