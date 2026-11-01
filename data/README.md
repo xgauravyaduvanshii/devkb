@@ -19,3 +19,4 @@ All entries by ecosystem. Generated content lives in site/.
 - **hint: You have divergent branches and need to specify how to reconcile them** — [`git-divergent`](errors/git-divergent.md) · ecosystem: git · tags: git,pull
 - **fatal: Unable to create '.git/index.lock': File exists** — [`git-index-lock`](errors/git-index-lock.md) · ecosystem: git · tags: git
 - **You are in 'detached HEAD' state. You can look around, make experimental changes** — [`git-detached-head`](errors/git-detached-head.md) · ecosystem: git · tags: git,branches
+- **fatal: unable to auto-detect email address / wrong committer on push** — [`git-author-identity`](errors/git-author-identity.md) · ecosystem: git · tags: git,config
