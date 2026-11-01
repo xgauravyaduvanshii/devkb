@@ -66,3 +66,4 @@ All entries by ecosystem. Generated content lives in site/.
 - **error: declared and not used: err** — [`go-declared-not-used`](errors/go-declared-not-used.md) · ecosystem: go · tags: go,compiler
 - **panic: assignment to entry in nil map** — [`go-nil-map`](errors/go-nil-map.md) · ecosystem: go · tags: go,panic
 - **syntax error: unexpected EOF, expected }** — [`go-unexpected-eof`](errors/go-unexpected-eof.md) · ecosystem: go · tags: go,parser
+- **go: cannot find main module, but found .git/config in /app** — [`go-cannot-find-module`](errors/go-cannot-find-module.md) · ecosystem: go · tags: go,modules
