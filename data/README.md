@@ -114,3 +114,4 @@ All entries by ecosystem. Generated content lives in site/.
 - **release: failed to create: ...in method (0) / another operation (install/upgrade/rollback) is in progress** — [`helm-release-stuck`](errors/helm-release-stuck.md) · ecosystem: kubernetes · tags: helm,state
 - **ImportError while loading conftest / ModuleNotFoundError when running pytest (works in python directly)** — [`py-pytest-import`](errors/py-pytest-import.md) · ecosystem: python · tags: python,tests
 - **Formatter and linter disagree: files keep flipping between ruff format and black settings** — [`py-black-ruff-conflict`](errors/py-black-ruff-conflict.md) · ecosystem: python · tags: python,lint
+- **Jest: Cannot use import statement outside a module (ESM/TS projects)** — [`ts-jest-esm`](errors/ts-jest-esm.md) · ecosystem: typescript · tags: typescript,jest,esm
