@@ -71,3 +71,4 @@ All entries by ecosystem. Generated content lives in site/.
 - **FATAL: role "<user>" does not exist** — [`pg-role-does-not-exist`](errors/pg-role-does-not-exist.md) · ecosystem: postgresql · tags: postgres,auth
 - **FATAL: sorry, too many clients already / remaining connection slots reserved** — [`pg-too-many-connections`](errors/pg-too-many-connections.md) · ecosystem: postgresql · tags: postgres,connections
 - **ERROR: deadlock detected (SQLSTATE 40P01)** — [`pg-deadlock-detected`](errors/pg-deadlock-detected.md) · ecosystem: postgresql · tags: postgres,transactions
+- **ERROR: insert or update on table "orders" violates foreign key constraint** — [`pg-fk-violation`](errors/pg-fk-violation.md) · ecosystem: postgresql · tags: postgres,constraints
