@@ -104,3 +104,4 @@ All entries by ecosystem. Generated content lives in site/.
 - **The SQL contains 0 parameter markers, but the command has 1 parameters total / Prepared statement limit** — [`sql-too-many-placeholders`](errors/sql-too-many-placeholders.md) · ecosystem: database,sql · tags: sql,db
 - **Run failed: Error: Artifact not found / Unable to download artifact(s)** — [`ci-artifact-missing`](errors/ci-artifact-missing.md) · ecosystem: devops,ci · tags: ci,actions
 - **npm ERR! engine: Not compatible with your version (node 16 vs required >=18)** — [`ci-node-version`](errors/ci-node-version.md) · ecosystem: devops,ci · tags: ci,node
+- **npm ERR! Could not resolve dependency tree / conflicting peer dependency** — [`npm-peer-deps`](errors/npm-peer-deps.md) · ecosystem: nodejs · tags: npm,deps
