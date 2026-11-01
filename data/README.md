@@ -20,3 +20,4 @@ All entries by ecosystem. Generated content lives in site/.
 - **fatal: Unable to create '.git/index.lock': File exists** — [`git-index-lock`](errors/git-index-lock.md) · ecosystem: git · tags: git
 - **You are in 'detached HEAD' state. You can look around, make experimental changes** — [`git-detached-head`](errors/git-detached-head.md) · ecosystem: git · tags: git,branches
 - **fatal: unable to auto-detect email address / wrong committer on push** — [`git-author-identity`](errors/git-author-identity.md) · ecosystem: git · tags: git,config
+- **error: unable to create file ...: Filename too long (Windows)** — [`git-filename-too-long`](errors/git-filename-too-long.md) · ecosystem: git · tags: git,windows
