@@ -60,3 +60,4 @@ All entries by ecosystem. Generated content lives in site/.
 - **error[E0382]: use of moved value: `data`** — [`rust-e0382`](errors/rust-e0382.md) · ecosystem: rust · tags: rust,borrowck
 - **error[E0597]: `x` does not live long enough** — [`rust-e0597`](errors/rust-e0597.md) · ecosystem: rust · tags: rust,lifetimes
 - **error[E0277]: the trait bound `T: Clone` is not satisfied** — [`rust-e0277`](errors/rust-e0277.md) · ecosystem: rust · tags: rust,traits
+- **error: command not found: cargo / rustc not found after rustup install** — [`rust-cargo-missing`](errors/rust-cargo-missing.md) · ecosystem: rust · tags: rust,toolchain
