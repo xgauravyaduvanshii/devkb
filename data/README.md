@@ -44,3 +44,4 @@ All entries by ecosystem. Generated content lives in site/.
 - **persistentvolumeclaim staying Pending: no available persistent volumes to bind / storageclass not found** — [`k8s-pvc-pending`](errors/k8s-pvc-pending.md) · ecosystem: kubernetes · tags: k8s,storage
 - **ModuleNotFoundError: No module named 'requests'** — [`py-module-not-found`](errors/py-module-not-found.md) · ecosystem: python · tags: python,imports
 - **error: externally-managed-environment (PEP 668) on pip install** — [`py-externally-managed`](errors/py-externally-managed.md) · ecosystem: python · tags: python,pip,linux
+- **ERROR: Cannot install X because these package versions have conflicting dependencies (ResolutionImpossible)** — [`py-pip-conflict`](errors/py-pip-conflict.md) · ecosystem: python · tags: python,pip
