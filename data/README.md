@@ -82,3 +82,4 @@ All entries by ecosystem. Generated content lives in site/.
 - **MongoServerSelectionError: connection timed out / Server selection timeout 30000ms** — [`mongo-server-selection`](errors/mongo-server-selection.md) · ecosystem: mongodb · tags: mongodb,network
 - **MISCONF Redis is configured to save RDB snapshots, but it is currently not able to persist on disk** — [`redis-misconf`](errors/redis-misconf.md) · ecosystem: redis · tags: redis,disk
 - **OOM command not allowed when used memory > 'maxmemory'** — [`redis-oom`](errors/redis-oom.md) · ecosystem: redis · tags: redis,memory
+- **Connection refused to 127.0.0.1:6379 (within app) or NOAUTH / WRONGPASS** — [`redis-connrefused`](errors/redis-connrefused.md) · ecosystem: redis · tags: redis,auth
