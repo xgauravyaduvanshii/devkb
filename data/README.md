@@ -89,3 +89,4 @@ All entries by ecosystem. Generated content lives in site/.
 - **No space left on device although df shows free space** — [`linux-no-space`](errors/linux-no-space.md) · ecosystem: linux · tags: linux,disk
 - **EMFILE: too many open files / OSError: [Errno 24]** — [`linux-too-many-open-files`](errors/linux-too-many-open-files.md) · ecosystem: linux · tags: linux,limits
 - **ENOSPC: System limit for number of file watchers reached (chokidar / watch service)** — [`linux-inotify-limit`](errors/linux-inotify-limit.md) · ecosystem: linux · tags: linux,fs-watch
+- **/bin/bash^M: bad interpreter: No such file or directory** — [`linux-crlf-interpreter`](errors/linux-crlf-interpreter.md) · ecosystem: linux · tags: linux,encoding
