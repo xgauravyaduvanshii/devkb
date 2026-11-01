@@ -116,3 +116,4 @@ All entries by ecosystem. Generated content lives in site/.
 - **Formatter and linter disagree: files keep flipping between ruff format and black settings** — [`py-black-ruff-conflict`](errors/py-black-ruff-conflict.md) · ecosystem: python · tags: python,lint
 - **Jest: Cannot use import statement outside a module (ESM/TS projects)** — [`ts-jest-esm`](errors/ts-jest-esm.md) · ecosystem: typescript · tags: typescript,jest,esm
 - **error: failed to acquire lock on package cache (cargo)** — [`rust-cargo-lock-race`](errors/rust-cargo-lock-race.md) · ecosystem: rust · tags: rust,cargo
+- **go build: vendored module X is not marked as explicit / inconsistent vendoring** — [`go-vendor-inconsistent`](errors/go-vendor-inconsistent.md) · ecosystem: go · tags: go,vendor
