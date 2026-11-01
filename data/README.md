@@ -34,3 +34,4 @@ All entries by ecosystem. Generated content lives in site/.
 - **Name or service not known (DNS failure inside container)** — [`docker-dns-fail`](errors/docker-dns-fail.md) · ecosystem: docker · tags: docker,network
 - **E: Problem executing scripts APT::Post-Invoke 'apt clean' / failed to exec batch processor /bin/sh** — [`docker-apt-post-invoke`](errors/docker-apt-post-invoke.md) · ecosystem: docker · tags: docker,debian
 - **Back-off restarting failed container ... CrashLoopBackOff** — [`k8s-crashloopbackoff`](errors/k8s-crashloopbackoff.md) · ecosystem: kubernetes · tags: k8s,pods
+- **ErrImagePull / ImagePullBackOff for image registry/x:tag** — [`k8s-imagepullbackoff`](errors/k8s-imagepullbackoff.md) · ecosystem: kubernetes · tags: k8s,registry
