@@ -112,3 +112,4 @@ All entries by ecosystem. Generated content lives in site/.
 - **Init:Error / Init:CrashLoopBackOff on pod startup** — [`k8s-init-crash`](errors/k8s-init-crash.md) · ecosystem: kubernetes · tags: k8s,init
 - **error: Metrics API not available / Metrics API could not be found** — [`kubectl-top-metrics`](errors/kubectl-top-metrics.md) · ecosystem: kubernetes · tags: k8s,observability
 - **release: failed to create: ...in method (0) / another operation (install/upgrade/rollback) is in progress** — [`helm-release-stuck`](errors/helm-release-stuck.md) · ecosystem: kubernetes · tags: helm,state
+- **ImportError while loading conftest / ModuleNotFoundError when running pytest (works in python directly)** — [`py-pytest-import`](errors/py-pytest-import.md) · ecosystem: python · tags: python,tests
