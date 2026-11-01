@@ -54,3 +54,4 @@ All entries by ecosystem. Generated content lives in site/.
 - **error TS2554: Expected 2 arguments, but got 1** — [`ts-2554`](errors/ts-2554.md) · ecosystem: typescript · tags: typescript,api
 - **error TS7006: Parameter 'e' implicitly has an 'any' type** — [`ts-7006`](errors/ts-7006.md) · ecosystem: typescript · tags: typescript,strict
 - **error TS1259: Module 'x' can only be default-imported using the 'esModuleInterop' flag** — [`ts-1259`](errors/ts-1259.md) · ecosystem: typescript · tags: typescript,imports
+- **error TS2694: Namespace 'React' has no exported member 'FC' (or JSX types missing)** — [`ts-2694`](errors/ts-2694.md) · ecosystem: typescript · tags: typescript,react
