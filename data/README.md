@@ -69,3 +69,4 @@ All entries by ecosystem. Generated content lives in site/.
 - **go: cannot find main module, but found .git/config in /app** — [`go-cannot-find-module`](errors/go-cannot-find-module.md) · ecosystem: go · tags: go,modules
 - **go.mod requires go >= 1.22 (running go 1.21; GOTOOLCHAIN=local)** — [`go-toolchain-mismatch`](errors/go-toolchain-mismatch.md) · ecosystem: go · tags: go,toolchain
 - **FATAL: role "<user>" does not exist** — [`pg-role-does-not-exist`](errors/pg-role-does-not-exist.md) · ecosystem: postgresql · tags: postgres,auth
+- **FATAL: sorry, too many clients already / remaining connection slots reserved** — [`pg-too-many-connections`](errors/pg-too-many-connections.md) · ecosystem: postgresql · tags: postgres,connections
