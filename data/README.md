@@ -110,3 +110,4 @@ All entries by ecosystem. Generated content lives in site/.
 - **COPY failed: file outside of build context / build hangs uploading context** — [`docker-build-context-huge`](errors/docker-build-context-huge.md) · ecosystem: docker · tags: docker,build
 - **Container starts then immediately exits (docker ps shows nothing)** — [`docker-container-exits`](errors/docker-container-exits.md) · ecosystem: docker · tags: docker,process
 - **Init:Error / Init:CrashLoopBackOff on pod startup** — [`k8s-init-crash`](errors/k8s-init-crash.md) · ecosystem: kubernetes · tags: k8s,init
+- **error: Metrics API not available / Metrics API could not be found** — [`kubectl-top-metrics`](errors/kubectl-top-metrics.md) · ecosystem: kubernetes · tags: k8s,observability
