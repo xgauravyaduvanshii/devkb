@@ -39,3 +39,4 @@ All entries by ecosystem. Generated content lives in site/.
 - **0/3 nodes are available: 3 Insufficient cpu. pre-fit failure** — [`k8s-pending-resources`](errors/k8s-pending-resources.md) · ecosystem: kubernetes · tags: k8s,scheduling
 - **Error from server (Forbidden): pods is forbidden: User cannot list resource in namespace** — [`k8s-rbac-forbidden`](errors/k8s-rbac-forbidden.md) · ecosystem: kubernetes · tags: k8s,rbac
 - **The connection to the server localhost:8080 was refused** — [`k8s-kubeconfig-refused`](errors/k8s-kubeconfig-refused.md) · ecosystem: kubernetes · tags: k8s,kubeconfig
+- **Pod was evicted: The node had condition: [DiskPressure]** — [`k8s-evicted`](errors/k8s-evicted.md) · ecosystem: kubernetes · tags: k8s,nodes
