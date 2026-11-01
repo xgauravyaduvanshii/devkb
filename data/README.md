@@ -65,3 +65,4 @@ All entries by ecosystem. Generated content lives in site/.
 - **import cycle not allowed (found packages or import cycle in package X)** — [`go-import-cycle`](errors/go-import-cycle.md) · ecosystem: go · tags: go,build
 - **error: declared and not used: err** — [`go-declared-not-used`](errors/go-declared-not-used.md) · ecosystem: go · tags: go,compiler
 - **panic: assignment to entry in nil map** — [`go-nil-map`](errors/go-nil-map.md) · ecosystem: go · tags: go,panic
+- **syntax error: unexpected EOF, expected }** — [`go-unexpected-eof`](errors/go-unexpected-eof.md) · ecosystem: go · tags: go,parser
