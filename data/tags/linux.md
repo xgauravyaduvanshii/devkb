@@ -1,0 +1,11 @@
+# Tag: linux (9 entries)
+
+- [EACCES: permission denied, mkdir '/usr/local/lib/node_modules'](../errors/npm-eacces.md)
+- [permission denied while trying to connect to the Docker daemon socket](../errors/docker-permission-socket.md)
+- [error: externally-managed-environment (PEP 668) on pip install](../errors/py-externally-managed.md)
+- [bash: foo: command not found](../errors/linux-command-not-found.md)
+- [bash: ./script.sh: Permission denied even after chmod +x](../errors/linux-permission-denied.md)
+- [No space left on device although df shows free space](../errors/linux-no-space.md)
+- [EMFILE: too many open files / OSError: [Errno 24]](../errors/linux-too-many-open-files.md)
+- [ENOSPC: System limit for number of file watchers reached (chokidar / watch service)](../errors/linux-inotify-limit.md)
+- [/bin/bash^M: bad interpreter: No such file or directory](../errors/linux-crlf-interpreter.md)
