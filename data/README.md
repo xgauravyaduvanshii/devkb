@@ -74,3 +74,4 @@ All entries by ecosystem. Generated content lives in site/.
 - **ERROR: insert or update on table "orders" violates foreign key constraint** — [`pg-fk-violation`](errors/pg-fk-violation.md) · ecosystem: postgresql · tags: postgres,constraints
 - **ERROR: duplicate key value violates unique constraint "users_email_key"** — [`pg-unique-violation`](errors/pg-unique-violation.md) · ecosystem: postgresql · tags: postgres,constraints
 - **ERROR: relation "users" does not exist** — [`pg-relation-missing`](errors/pg-relation-missing.md) · ecosystem: postgresql · tags: postgres,schema
+- **FATAL: password authentication failed / connection requires SCRAM but server not configured** — [`pg-scram-auth`](errors/pg-scram-auth.md) · ecosystem: postgresql · tags: postgres,auth
