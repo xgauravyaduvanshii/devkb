@@ -99,3 +99,4 @@ All entries by ecosystem. Generated content lives in site/.
 - **Fatal error: Uncaught Error: Call to undefined function mysqli_real_escape_string()** — [`wp-autoload-overflow`](errors/wp-autoload-overflow.md) · ecosystem: web,wordpress · tags: php,mysql
 - **Fatal error: Allowed memory size of 134217728 bytes exhausted** — [`wp-php-memory-limit`](errors/wp-php-memory-limit.md) · ecosystem: php · tags: php,memory
 - **attempt to write a readonly database (SQLITE_READONLY) / database is locked** — [`db-sqlite-readonly`](errors/db-sqlite-readonly.md) · ecosystem: sqlite · tags: sqlite,locking
+- **401 Unauthorized immediately after successful login, then a redirect loop to /login** — [`api-401-loop`](errors/api-401-loop.md) · ecosystem: web,auth · tags: auth,jwt
