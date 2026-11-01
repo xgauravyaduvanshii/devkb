@@ -43,3 +43,4 @@ All entries by ecosystem. Generated content lives in site/.
 - **Readiness probe failed: HTTP request to /healthz on port 8080 failed: connection refused** — [`k8s-readiness-fail`](errors/k8s-readiness-fail.md) · ecosystem: kubernetes · tags: k8s,probes
 - **persistentvolumeclaim staying Pending: no available persistent volumes to bind / storageclass not found** — [`k8s-pvc-pending`](errors/k8s-pvc-pending.md) · ecosystem: kubernetes · tags: k8s,storage
 - **ModuleNotFoundError: No module named 'requests'** — [`py-module-not-found`](errors/py-module-not-found.md) · ecosystem: python · tags: python,imports
+- **error: externally-managed-environment (PEP 668) on pip install** — [`py-externally-managed`](errors/py-externally-managed.md) · ecosystem: python · tags: python,pip,linux
