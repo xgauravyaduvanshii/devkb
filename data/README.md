@@ -73,3 +73,4 @@ All entries by ecosystem. Generated content lives in site/.
 - **ERROR: deadlock detected (SQLSTATE 40P01)** — [`pg-deadlock-detected`](errors/pg-deadlock-detected.md) · ecosystem: postgresql · tags: postgres,transactions
 - **ERROR: insert or update on table "orders" violates foreign key constraint** — [`pg-fk-violation`](errors/pg-fk-violation.md) · ecosystem: postgresql · tags: postgres,constraints
 - **ERROR: duplicate key value violates unique constraint "users_email_key"** — [`pg-unique-violation`](errors/pg-unique-violation.md) · ecosystem: postgresql · tags: postgres,constraints
+- **ERROR: relation "users" does not exist** — [`pg-relation-missing`](errors/pg-relation-missing.md) · ecosystem: postgresql · tags: postgres,schema
