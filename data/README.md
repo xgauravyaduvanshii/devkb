@@ -18,3 +18,4 @@ All entries by ecosystem. Generated content lives in site/.
 - **! [rejected] main -> main (non-fast-forward) git push failed** — [`git-non-fast-forward`](errors/git-non-fast-forward.md) · ecosystem: git · tags: git,push
 - **hint: You have divergent branches and need to specify how to reconcile them** — [`git-divergent`](errors/git-divergent.md) · ecosystem: git · tags: git,pull
 - **fatal: Unable to create '.git/index.lock': File exists** — [`git-index-lock`](errors/git-index-lock.md) · ecosystem: git · tags: git
+- **You are in 'detached HEAD' state. You can look around, make experimental changes** — [`git-detached-head`](errors/git-detached-head.md) · ecosystem: git · tags: git,branches
