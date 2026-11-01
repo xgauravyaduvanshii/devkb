@@ -118,3 +118,4 @@ All entries by ecosystem. Generated content lives in site/.
 - **error: failed to acquire lock on package cache (cargo)** — [`rust-cargo-lock-race`](errors/rust-cargo-lock-race.md) · ecosystem: rust · tags: rust,cargo
 - **go build: vendored module X is not marked as explicit / inconsistent vendoring** — [`go-vendor-inconsistent`](errors/go-vendor-inconsistent.md) · ecosystem: go · tags: go,vendor
 - **NOAUTH Authentication required / AUTH failed: invalid password** — [`redis-cli-auth`](errors/redis-cli-auth.md) · ecosystem: redis · tags: redis,auth
+- **An error occurred (AccessDenied) when calling the PutObject operation** — [`s3-access-denied`](errors/s3-access-denied.md) · ecosystem: cloud · tags: aws,s3
