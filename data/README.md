@@ -78,3 +78,4 @@ All entries by ecosystem. Generated content lives in site/.
 - **FATAL: database "app_production" does not exist** — [`pg-db-not-exist`](errors/pg-db-not-exist.md) · ecosystem: postgresql · tags: postgres,setup
 - **Command find failed: not authorized on db to execute command** — [`mongo-not-authorized`](errors/mongo-not-authorized.md) · ecosystem: mongodb · tags: mongodb,rbac
 - **E11000 duplicate key error collection: users index: email_1** — [`mongo-duplicate-key`](errors/mongo-duplicate-key.md) · ecosystem: mongodb · tags: mongodb,indexes
+- **Cursor not found, cursor id: ...** — [`mongo-cursor-timeout`](errors/mongo-cursor-timeout.md) · ecosystem: mongodb · tags: mongodb,cursors
