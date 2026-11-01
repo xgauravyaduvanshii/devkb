@@ -50,3 +50,4 @@ All entries by ecosystem. Generated content lives in site/.
 - **UnicodeDecodeError: 'charmap' codec can't decode byte 0x9d** — [`py-unicode-decode`](errors/py-unicode-decode.md) · ecosystem: python · tags: python,encoding
 - **source venv/bin/activate: No such file or directory (or Scripts\activate on Windows error)** — [`py-venv-activate`](errors/py-venv-activate.md) · ecosystem: python · tags: python,venv,windows
 - **Killed while installing packages / exit code 137 during pip install in Docker** — [`py-pip-killed`](errors/py-pip-killed.md) · ecosystem: python · tags: python,docker,memory
+- **error TS2307: Cannot find module 'x' or its corresponding type declarations** — [`ts-2307`](errors/ts-2307.md) · ecosystem: typescript · tags: typescript,imports
