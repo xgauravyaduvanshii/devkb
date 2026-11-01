@@ -8,3 +8,4 @@ All entries by ecosystem. Generated content lives in site/.
 - **Error [ERR_MODULE_NOT_FOUND]: Cannot find package** — [`node-err-module-not-found`](errors/node-err-module-not-found.md) · ecosystem: nodejs · tags: esm,nodejs
 - **Error [ERR_REQUIRE_ESM]: require() of ES Module is not supported** — [`node-err-require-esm`](errors/node-err-require-esm.md) · ecosystem: nodejs · tags: esm,cjs,nodejs
 - **EADDRINUSE: address already in use :::3000** — [`node-eaddrinuse`](errors/node-eaddrinuse.md) · ecosystem: nodejs · tags: node,ports,dev
+- **FATAL ERROR: Reached heap limit Allocation failed - JavaScript heap out of memory** — [`node-heap-oom`](errors/node-heap-oom.md) · ecosystem: nodejs · tags: node,memory
