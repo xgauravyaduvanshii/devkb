@@ -45,3 +45,4 @@ All entries by ecosystem. Generated content lives in site/.
 - **ModuleNotFoundError: No module named 'requests'** — [`py-module-not-found`](errors/py-module-not-found.md) · ecosystem: python · tags: python,imports
 - **error: externally-managed-environment (PEP 668) on pip install** — [`py-externally-managed`](errors/py-externally-managed.md) · ecosystem: python · tags: python,pip,linux
 - **ERROR: Cannot install X because these package versions have conflicting dependencies (ResolutionImpossible)** — [`py-pip-conflict`](errors/py-pip-conflict.md) · ecosystem: python · tags: python,pip
+- **ERROR: No matching distribution found for package==1.2.3** — [`py-no-matching-distribution`](errors/py-no-matching-distribution.md) · ecosystem: python · tags: python,pip
