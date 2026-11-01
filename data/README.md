@@ -29,3 +29,4 @@ All entries by ecosystem. Generated content lives in site/.
 - **permission denied while trying to connect to the Docker daemon socket** — [`docker-permission-socket`](errors/docker-permission-socket.md) · ecosystem: docker · tags: docker,linux
 - **no space left on device (while building or pulling)** — [`docker-no-space-left`](errors/docker-no-space-left.md) · ecosystem: docker · tags: docker,disk
 - **Error response from daemon: manifest for image:tag not found** — [`docker-manifest-unknown`](errors/docker-manifest-unknown.md) · ecosystem: docker · tags: docker,registry
+- **exec format error / image with platform linux/amd64 does not match this kernel** — [`docker-exec-format`](errors/docker-exec-format.md) · ecosystem: docker · tags: docker,arch
