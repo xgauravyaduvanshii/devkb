@@ -31,3 +31,4 @@ All entries by ecosystem. Generated content lives in site/.
 - **Error response from daemon: manifest for image:tag not found** — [`docker-manifest-unknown`](errors/docker-manifest-unknown.md) · ecosystem: docker · tags: docker,registry
 - **exec format error / image with platform linux/amd64 does not match this kernel** — [`docker-exec-format`](errors/docker-exec-format.md) · ecosystem: docker · tags: docker,arch
 - **no such service: web (in compose project)** — [`docker-compose-service-missing`](errors/docker-compose-service-missing.md) · ecosystem: docker · tags: docker,compose
+- **Name or service not known (DNS failure inside container)** — [`docker-dns-fail`](errors/docker-dns-fail.md) · ecosystem: docker · tags: docker,network
