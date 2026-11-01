@@ -81,3 +81,4 @@ All entries by ecosystem. Generated content lives in site/.
 - **Cursor not found, cursor id: ...** — [`mongo-cursor-timeout`](errors/mongo-cursor-timeout.md) · ecosystem: mongodb · tags: mongodb,cursors
 - **MongoServerSelectionError: connection timed out / Server selection timeout 30000ms** — [`mongo-server-selection`](errors/mongo-server-selection.md) · ecosystem: mongodb · tags: mongodb,network
 - **MISCONF Redis is configured to save RDB snapshots, but it is currently not able to persist on disk** — [`redis-misconf`](errors/redis-misconf.md) · ecosystem: redis · tags: redis,disk
+- **OOM command not allowed when used memory > 'maxmemory'** — [`redis-oom`](errors/redis-oom.md) · ecosystem: redis · tags: redis,memory
