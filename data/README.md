@@ -49,3 +49,4 @@ All entries by ecosystem. Generated content lives in site/.
 - **SSLError: SSL: CERTIFICATE_VERIFY_FAILED: unable to get local issuer certificate** — [`py-ssl-verify`](errors/py-ssl-verify.md) · ecosystem: python · tags: python,ssl,macos
 - **UnicodeDecodeError: 'charmap' codec can't decode byte 0x9d** — [`py-unicode-decode`](errors/py-unicode-decode.md) · ecosystem: python · tags: python,encoding
 - **source venv/bin/activate: No such file or directory (or Scripts\activate on Windows error)** — [`py-venv-activate`](errors/py-venv-activate.md) · ecosystem: python · tags: python,venv,windows
+- **Killed while installing packages / exit code 137 during pip install in Docker** — [`py-pip-killed`](errors/py-pip-killed.md) · ecosystem: python · tags: python,docker,memory
