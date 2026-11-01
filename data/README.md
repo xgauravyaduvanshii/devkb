@@ -84,3 +84,4 @@ All entries by ecosystem. Generated content lives in site/.
 - **OOM command not allowed when used memory > 'maxmemory'** — [`redis-oom`](errors/redis-oom.md) · ecosystem: redis · tags: redis,memory
 - **Connection refused to 127.0.0.1:6379 (within app) or NOAUTH / WRONGPASS** — [`redis-connrefused`](errors/redis-connrefused.md) · ecosystem: redis · tags: redis,auth
 - **WRONGTYPE Operation against a key holding the wrong kind of value** — [`redis-wrongtype`](errors/redis-wrongtype.md) · ecosystem: redis · tags: redis,types
+- **bash: foo: command not found** — [`linux-command-not-found`](errors/linux-command-not-found.md) · ecosystem: linux · tags: linux,shell
