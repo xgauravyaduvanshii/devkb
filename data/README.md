@@ -36,3 +36,4 @@ All entries by ecosystem. Generated content lives in site/.
 - **Back-off restarting failed container ... CrashLoopBackOff** — [`k8s-crashloopbackoff`](errors/k8s-crashloopbackoff.md) · ecosystem: kubernetes · tags: k8s,pods
 - **ErrImagePull / ImagePullBackOff for image registry/x:tag** — [`k8s-imagepullbackoff`](errors/k8s-imagepullbackoff.md) · ecosystem: kubernetes · tags: k8s,registry
 - **Last State: Terminated, Reason: OOMKilled exit code 137** — [`k8s-oomkilled`](errors/k8s-oomkilled.md) · ecosystem: kubernetes · tags: k8s,memory
+- **0/3 nodes are available: 3 Insufficient cpu. pre-fit failure** — [`k8s-pending-resources`](errors/k8s-pending-resources.md) · ecosystem: kubernetes · tags: k8s,scheduling
