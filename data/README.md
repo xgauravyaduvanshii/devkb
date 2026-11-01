@@ -108,3 +108,4 @@ All entries by ecosystem. Generated content lives in site/.
 - **error Your lockfile needs to be updated, but it was not changed / CI frozen on yarn install --frozen-lockfile** — [`yarn-lock-mismatch`](errors/yarn-lock-mismatch.md) · ecosystem: nodejs · tags: yarn,lockfile
 - **TypeError: fetch failed / ECONNRESET with undici but fine in browser** — [`node-abort-ctrl`](errors/node-abort-ctrl.md) · ecosystem: nodejs · tags: node,http
 - **COPY failed: file outside of build context / build hangs uploading context** — [`docker-build-context-huge`](errors/docker-build-context-huge.md) · ecosystem: docker · tags: docker,build
+- **Container starts then immediately exits (docker ps shows nothing)** — [`docker-container-exits`](errors/docker-container-exits.md) · ecosystem: docker · tags: docker,process
