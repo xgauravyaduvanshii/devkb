@@ -13,3 +13,4 @@ All entries by ecosystem. Generated content lives in site/.
 - **npm ERR! Invalid package name "my-app": name can only contain URL-friendly characters** — [`npm-einargs`](errors/npm-einargs.md) · ecosystem: nodejs · tags: npm,naming
 - **npm ERR! code ETIMEDOUT / ECONNREFUSED registry.npmjs.org** — [`npm-etimedout`](errors/npm-etimedout.md) · ecosystem: nodejs · tags: npm,network
 - **ESLint: Failed to load plugin 'react' declared in '.eslintrc': Cannot find module** — [`eslint-plugin-missing`](errors/eslint-plugin-missing.md) · ecosystem: nodejs · tags: eslint,tooling
+- **Vite: Port 5173 is in use, trying another one... / ws proxy error ECONNREFUSED** — [`vite-port-conflict`](errors/vite-port-conflict.md) · ecosystem: nodejs · tags: vite,dev
