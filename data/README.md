@@ -17,3 +17,4 @@ All entries by ecosystem. Generated content lives in site/.
 - **Cannot find module X although it is in dependencies (pnpm strict node_modules)** — [`pnpm-hoist`](errors/pnpm-hoist.md) · ecosystem: nodejs · tags: pnpm,node
 - **! [rejected] main -> main (non-fast-forward) git push failed** — [`git-non-fast-forward`](errors/git-non-fast-forward.md) · ecosystem: git · tags: git,push
 - **hint: You have divergent branches and need to specify how to reconcile them** — [`git-divergent`](errors/git-divergent.md) · ecosystem: git · tags: git,pull
+- **fatal: Unable to create '.git/index.lock': File exists** — [`git-index-lock`](errors/git-index-lock.md) · ecosystem: git · tags: git
