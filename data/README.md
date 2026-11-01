@@ -76,3 +76,4 @@ All entries by ecosystem. Generated content lives in site/.
 - **ERROR: relation "users" does not exist** — [`pg-relation-missing`](errors/pg-relation-missing.md) · ecosystem: postgresql · tags: postgres,schema
 - **FATAL: password authentication failed / connection requires SCRAM but server not configured** — [`pg-scram-auth`](errors/pg-scram-auth.md) · ecosystem: postgresql · tags: postgres,auth
 - **FATAL: database "app_production" does not exist** — [`pg-db-not-exist`](errors/pg-db-not-exist.md) · ecosystem: postgresql · tags: postgres,setup
+- **Command find failed: not authorized on db to execute command** — [`mongo-not-authorized`](errors/mongo-not-authorized.md) · ecosystem: mongodb · tags: mongodb,rbac
