@@ -117,3 +117,4 @@ All entries by ecosystem. Generated content lives in site/.
 - **Jest: Cannot use import statement outside a module (ESM/TS projects)** — [`ts-jest-esm`](errors/ts-jest-esm.md) · ecosystem: typescript · tags: typescript,jest,esm
 - **error: failed to acquire lock on package cache (cargo)** — [`rust-cargo-lock-race`](errors/rust-cargo-lock-race.md) · ecosystem: rust · tags: rust,cargo
 - **go build: vendored module X is not marked as explicit / inconsistent vendoring** — [`go-vendor-inconsistent`](errors/go-vendor-inconsistent.md) · ecosystem: go · tags: go,vendor
+- **NOAUTH Authentication required / AUTH failed: invalid password** — [`redis-cli-auth`](errors/redis-cli-auth.md) · ecosystem: redis · tags: redis,auth
