@@ -86,3 +86,4 @@ All entries by ecosystem. Generated content lives in site/.
 - **WRONGTYPE Operation against a key holding the wrong kind of value** — [`redis-wrongtype`](errors/redis-wrongtype.md) · ecosystem: redis · tags: redis,types
 - **bash: foo: command not found** — [`linux-command-not-found`](errors/linux-command-not-found.md) · ecosystem: linux · tags: linux,shell
 - **bash: ./script.sh: Permission denied even after chmod +x** — [`linux-permission-denied`](errors/linux-permission-denied.md) · ecosystem: linux · tags: linux,exec
+- **No space left on device although df shows free space** — [`linux-no-space`](errors/linux-no-space.md) · ecosystem: linux · tags: linux,disk
