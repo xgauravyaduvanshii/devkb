@@ -47,3 +47,4 @@ All entries by ecosystem. Generated content lives in site/.
 - **ERROR: Cannot install X because these package versions have conflicting dependencies (ResolutionImpossible)** — [`py-pip-conflict`](errors/py-pip-conflict.md) · ecosystem: python · tags: python,pip
 - **ERROR: No matching distribution found for package==1.2.3** — [`py-no-matching-distribution`](errors/py-no-matching-distribution.md) · ecosystem: python · tags: python,pip
 - **SSLError: SSL: CERTIFICATE_VERIFY_FAILED: unable to get local issuer certificate** — [`py-ssl-verify`](errors/py-ssl-verify.md) · ecosystem: python · tags: python,ssl,macos
+- **UnicodeDecodeError: 'charmap' codec can't decode byte 0x9d** — [`py-unicode-decode`](errors/py-unicode-decode.md) · ecosystem: python · tags: python,encoding
