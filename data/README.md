@@ -26,3 +26,4 @@ All entries by ecosystem. Generated content lives in site/.
 - **fatal: not a git repository (or any of the parent directories): .git** — [`git-not-a-repo`](errors/git-not-a-repo.md) · ecosystem: git · tags: git
 - **error: ...: object is a file - replacing / fatal: bad object / packfile truncated** — [`git-corrupt-obj`](errors/git-corrupt-obj.md) · ecosystem: git · tags: git,integrity
 - **Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running?** — [`docker-cannot-connect-daemon`](errors/docker-cannot-connect-daemon.md) · ecosystem: docker · tags: docker,daemon
+- **permission denied while trying to connect to the Docker daemon socket** — [`docker-permission-socket`](errors/docker-permission-socket.md) · ecosystem: docker · tags: docker,linux
