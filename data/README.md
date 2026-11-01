@@ -101,3 +101,4 @@ All entries by ecosystem. Generated content lives in site/.
 - **attempt to write a readonly database (SQLITE_READONLY) / database is locked** — [`db-sqlite-readonly`](errors/db-sqlite-readonly.md) · ecosystem: sqlite · tags: sqlite,locking
 - **401 Unauthorized immediately after successful login, then a redirect loop to /login** — [`api-401-loop`](errors/api-401-loop.md) · ecosystem: web,auth · tags: auth,jwt
 - **Unexpected token o in JSON at position 1 (or JSON.parse: unexpected end of data)** — [`json-syntax-error`](errors/json-syntax-error.md) · ecosystem: web,json · tags: json,js
+- **The SQL contains 0 parameter markers, but the command has 1 parameters total / Prepared statement limit** — [`sql-too-many-placeholders`](errors/sql-too-many-placeholders.md) · ecosystem: database,sql · tags: sql,db
