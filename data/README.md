@@ -87,3 +87,4 @@ All entries by ecosystem. Generated content lives in site/.
 - **bash: foo: command not found** — [`linux-command-not-found`](errors/linux-command-not-found.md) · ecosystem: linux · tags: linux,shell
 - **bash: ./script.sh: Permission denied even after chmod +x** — [`linux-permission-denied`](errors/linux-permission-denied.md) · ecosystem: linux · tags: linux,exec
 - **No space left on device although df shows free space** — [`linux-no-space`](errors/linux-no-space.md) · ecosystem: linux · tags: linux,disk
+- **EMFILE: too many open files / OSError: [Errno 24]** — [`linux-too-many-open-files`](errors/linux-too-many-open-files.md) · ecosystem: linux · tags: linux,limits
