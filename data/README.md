@@ -95,3 +95,4 @@ All entries by ecosystem. Generated content lives in site/.
 - **Cloudflare Error 521: Web server is down** — [`web-521`](errors/web-521.md) · ecosystem: web · tags: http,cloudflare
 - **NET::ERR_CERT_COMMON_NAME_INVALID / SSL: hostname mismatch** — [`web-ssl-hostname`](errors/web-ssl-hostname.md) · ecosystem: web · tags: https,tls
 - **ERR_TOO_MANY_REDIRECTS (HTTP 301/302 cycle)** — [`web-redirect-loop`](errors/web-redirect-loop.md) · ecosystem: web · tags: http,https
+- **Refused to execute script because it violates the following Content Security Policy directive** — [`web-csp-blocked`](errors/web-csp-blocked.md) · ecosystem: web · tags: http,security
