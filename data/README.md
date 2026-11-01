@@ -62,3 +62,4 @@ All entries by ecosystem. Generated content lives in site/.
 - **error[E0277]: the trait bound `T: Clone` is not satisfied** — [`rust-e0277`](errors/rust-e0277.md) · ecosystem: rust · tags: rust,traits
 - **error: command not found: cargo / rustc not found after rustup install** — [`rust-cargo-missing`](errors/rust-cargo-missing.md) · ecosystem: rust · tags: rust,toolchain
 - **error: linker `cc` not found / executable file not found: cc** — [`rust-cc-missing`](errors/rust-cc-missing.md) · ecosystem: rust · tags: rust,build
+- **import cycle not allowed (found packages or import cycle in package X)** — [`go-import-cycle`](errors/go-import-cycle.md) · ecosystem: go · tags: go,build
